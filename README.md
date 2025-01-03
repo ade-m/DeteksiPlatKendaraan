@@ -19,7 +19,7 @@ Sebelum menjalankan proyek ini, pastikan Anda sudah menginstal semua dependensi 
    ```bash
    pip install opencv-python
 
-Kontak & Media Sosial
+## Kontak & Media Sosial
 Nama: Ade Maulana
 Instagram: @ademaulana_
 TikTok: @ademaulana_4
