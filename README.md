@@ -2,6 +2,11 @@
 
 Proyek ini bertujuan untuk mendeteksi plat nomor kendaraan pada video menggunakan metode **Deteksi Kontur** dan **OCR (Optical Character Recognition)**. Hasil dari setiap tahap pemrosesan gambar, seperti grayscale, peningkatan kontras, deteksi tepi dengan Canny, dan kontur yang terdeteksi, diekspor ke file gambar `.jpg`.
 
+## Kontak & Media Sosial
+Nama: Ade Maulana
+Instagram: @ademaulana_
+TikTok: @ademaulana_4
+
 ## Fitur
 
 - **Deteksi Plat Nomor**: Menggunakan metode deteksi kontur untuk mendeteksi area yang kemungkinan merupakan plat nomor kendaraan.
@@ -19,7 +24,3 @@ Sebelum menjalankan proyek ini, pastikan Anda sudah menginstal semua dependensi 
    ```bash
    pip install opencv-python
 
-## Kontak & Media Sosial
-Nama: Ade Maulana
-Instagram: @ademaulana_
-TikTok: @ademaulana_4
